@@ -2,4 +2,4 @@
 coaching
 get Try
 definition:
-What's NLP-Coach?NLP-Coach is a automaker of natural language!
+What's NLP-Coach?NLP-Coach is an automaker of natural language!
